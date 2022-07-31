@@ -1,4 +1,4 @@
-# A-Maze-Solver
+# A*-Maze-Solver
 This a python based maze solver which visualizes the A* algorithm on a grid where we can put on a start and end point and can set up a maze. The objective is to find the optimal or shortest path to reach from the start point to the end point avoiding the walls.
 
 Imagine a square grid which possesses many obstacles, scattered randomly. The initial and the final cell is provided. The aim is to reach the final cell in the shortest time.
